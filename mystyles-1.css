@@ -1,0 +1,20 @@
+.common{text-align: center;
+    font-family: 'Times New Roman', Times, serif;}
+ul{list-style-position: inside; font-size: 30px;color: darkslategray;}
+
+.header{height: 100px;background-color: rgb(205, 192, 175); line-height: 100px;}
+
+.mainbody{background-color: rgba(232, 223, 211, 0.819);}
+
+.footer{height: 25px;
+background-color: black; color: white; position: fixed; bottom: 0px;
+font-size: 15px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h1{font-size: 50px; color: darkslategray;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-weight: bold;}
+h2{font-size: 40px; color: darkslategray;}
+
+nav{font-size: 20px;}
+
+h3{font-size: 30px;}
+
+.container{width: 500px; height: 281px;}
